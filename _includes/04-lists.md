@@ -4,3 +4,4 @@
 -ball
 -bat
 -catch
+-six
