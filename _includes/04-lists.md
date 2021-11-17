@@ -1,1 +1,2 @@
-cricket movies songs
+-cricket 
+*movies songs
