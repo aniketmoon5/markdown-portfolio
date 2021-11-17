@@ -5,3 +5,6 @@
 -bat
 -catch
 -six
+*four
+*three
+*ten
