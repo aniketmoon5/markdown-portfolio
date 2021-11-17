@@ -1,2 +1,5 @@
 -cricket 
-*movies songs
+-movies
+-games
+-ball
+-bat
