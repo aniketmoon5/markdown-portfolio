@@ -1,10 +1,10 @@
--cricket 
--movies
--games
--ball
--bat
--catch
--six
-*four
-*three
-*ten
+- cricket 
+- movies
+- games
+- ball
+- bat
+- catch
+- six
+* four
+* three
+* ten
